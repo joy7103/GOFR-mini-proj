@@ -14,5 +14,15 @@ which is in demand in today's world.
 Thanks for this opportunity and considering my application.
 
 
+To run this project open 2 terminals
+
+terminal 1. cd into serve2 and -> go run main.go
+terminal 2. cd into client and -> npm run start
+
+server runs on port 8080
+and client on port 3000
+
+
+
 
 
